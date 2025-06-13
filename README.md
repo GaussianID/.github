@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="../Gaussian-stroke.png" alt="Gaussian">
+  <img width="400" src="Gaussian-stroke.png" alt="Gaussian">
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 ## About Us
 
 <p align="center">
-  <img width="120" src="../Gaussian-square-nobg.png" alt="Gaussian Logo">
+  <img width="120" src="Gaussian-square-nobg.png" alt="Gaussian Logo">
 </p>
 
 **Gaussian is an enhanced, cost-effective Agentic AI solution. By overcoming memory limitations and reducing hallucinations, our intelligent automation and digital twin technologies are reliable and highly effective. We empower enterprises with real-time insights, automated processes, and autonomous threat defense to redefine how they detect threats, seize opportunities, and run resilient, data-driven operations.**
@@ -63,9 +63,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="../Product2.png" alt="Gaussian Product Suite Architecture" width="450" height="250" style="object-fit: cover;"/>
+      <img src="Product2.png" alt="Gaussian Product Suite Architecture" width="450" height="250" style="object-fit: cover;"/>
       <br><br>
-      <img src="../GaussProduct.png" alt="Gaussian Product Overview" width="450" height="250" style="object-fit: cover;"/>
+      <img src="GaussProduct.png" alt="Gaussian Product Overview" width="450" height="250" style="object-fit: cover;"/>
     </td>
     <td width="50%" valign="top">
       <h3>🚀 Core Components</h3>
