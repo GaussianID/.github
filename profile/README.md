@@ -105,33 +105,31 @@
 
 ---
 
-<div align="center">
-
 ## Get In Touch
 
+<div align="center">
+  <table style="display:inline-block; text-align:left;">
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h3>:globe_with_meridians: Our Locations</h3>
+        <ul style="text-align:left; display:inline-block;">
+          <li><strong>Business Headquarters:</strong> Sydney :australia:</li>
+          <li><strong>R&D Hub:</strong> Singapore :singapore:</li>
+          <li><strong>AI Development Center:</strong> Jakarta :indonesia:</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3>:mailbox_with_mail: Contact Information</h3>
+        <ul style="text-align:left; display:inline-block;">
+          <li><strong>Email:</strong> <a href="mailto:contact@gaussian.id">contact@gaussian.id</a></li>
+          <li><strong>Phone (SG):</strong> +65 9775 6731</li>
+          <li><strong>Phone (ID):</strong> +62 8111 4429 75</li>
+          <li><strong>Phone (AU):</strong> +61 499 0921 83</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
 </div>
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <h3>:globe_with_meridians: Our Locations</h3>
-      <ul style="text-align: left; display: inline-block;">
-        <li><strong>Business Headquarters:</strong> Sydney :australia:</li>
-        <li><strong>R&D Hub:</strong> Singapore :singapore:</li>
-        <li><strong>AI Development Center:</strong> Jakarta :indonesia:</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <h3>:mailbox_with_mail: Contact Information</h3>
-      <ul style="text-align: left; display: inline-block;">
-        <li><strong>Email:</strong> <a href="mailto:contact@gaussian.id">contact@gaussian.id</a></li>
-        <li><strong>Phone (SG):</strong> +65 9775 6731</li>
-        <li><strong>Phone (ID):</strong> +62 8111 4429 75</li>
-        <li><strong>Phone (AU):</strong> +61 499 0921 83</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 

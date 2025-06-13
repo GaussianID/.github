@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="400" src="Gaussian-stroke.png" alt="Gaussian">
+  <img width="400" src="../Gaussian-stroke.png" alt="Gaussian">
 </p>
 
 <div align="center">
@@ -23,7 +23,7 @@
 ## About Us
 
 <p align="center">
-  <img width="120" src="Gaussian-square-nobg.png" alt="Gaussian Logo">
+  <img width="120" src="../Gaussian-square-nobg.png" alt="Gaussian Logo">
 </p>
 
 **Gaussian is an enhanced, cost-effective Agentic AI solution. By overcoming memory limitations and reducing hallucinations, our intelligent automation and digital twin technologies are reliable and highly effective. We empower enterprises with real-time insights, automated processes, and autonomous threat defense to redefine how they detect threats, seize opportunities, and run resilient, data-driven operations.**
@@ -63,9 +63,9 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="Product2.png" alt="Gaussian Product Suite Architecture" width="100%" height="200"/>
+      <img src="../Product2.png" alt="Gaussian Product Suite Architecture" width="450" height="250" style="object-fit: cover;"/>
       <br><br>
-      <img src="GaussProduct.png" alt="Gaussian Product Overview" width="100%" height="200"/>
+      <img src="../GaussProduct.png" alt="Gaussian Product Overview" width="450" height="250" style="object-fit: cover;"/>
     </td>
     <td width="50%" valign="top">
       <h3>🚀 Core Components</h3>
@@ -107,27 +107,29 @@
 
 ## Get In Touch
 
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>:globe_with_meridians: Our Locations</h3>
-      <ul>
-        <li><strong>Business Headquarters:</strong> Sydney :australia:</li>
-        <li><strong>R&D Hub:</strong> Singapore :singapore:</li>
-        <li><strong>AI Development Center:</strong> Jakarta :indonesia:</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>:mailbox_with_mail: Contact Information</h3>
-      <ul>
-        <li><strong>Email:</strong> <a href="mailto:contact@gaussian.id">contact@gaussian.id</a></li>
-        <li><strong>Phone (SG):</strong> +65 9775 6731</li>
-        <li><strong>Phone (ID):</strong> +62 8111 4429 75</li>
-        <li><strong>Phone (AU):</strong> +61 499 0921 83</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  <table style="display:inline-block; text-align:left;">
+    <tr>
+      <td width="50%" valign="top" align="center">
+        <h3>:globe_with_meridians: Our Locations</h3>
+        <ul style="text-align:left; display:inline-block;">
+          <li><strong>Business Headquarters:</strong> Sydney :australia:</li>
+          <li><strong>R&D Hub:</strong> Singapore :singapore:</li>
+          <li><strong>AI Development Center:</strong> Jakarta :indonesia:</li>
+        </ul>
+      </td>
+      <td width="50%" valign="top" align="center">
+        <h3>:mailbox_with_mail: Contact Information</h3>
+        <ul style="text-align:left; display:inline-block;">
+          <li><strong>Email:</strong> <a href="mailto:contact@gaussian.id">contact@gaussian.id</a></li>
+          <li><strong>Phone (SG):</strong> +65 9775 6731</li>
+          <li><strong>Phone (ID):</strong> +62 8111 4429 75</li>
+          <li><strong>Phone (AU):</strong> +61 499 0921 83</li>
+        </ul>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
